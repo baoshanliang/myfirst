@@ -14,5 +14,6 @@ public class Log {
 	}
 	public void after() {
 		System.out.println("方法执行后");
+		System.out.println("方法执行后");
 	}
 }
